@@ -8,8 +8,8 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 # 🌐 Socials
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=(https://www.instagram.com/brenosouzaas/))
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 # 📊 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bren04lv3s&show_icons=true&theme=dracula)
+![Breno Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=Bren04lv3s&show_icons=true&theme=dracula)
